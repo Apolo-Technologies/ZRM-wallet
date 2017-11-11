@@ -1,10 +1,10 @@
-# Monerujo
-Another Android Monero Wallet
+# ZRM-Wallet
+A Wallet for Android
 
 ### QUICKSTART
 - Download the APK for the most current release [here](https://github.com/m2049r/xmrwallet/releases) and install it
 - Run the App and select "Generate Wallet" to create a new wallet or recover a wallet
-- Advanced users can copy over synced wallet files (all files) onto sdcard in directory Monerujo (created first time App is started)
+- Advanced users can copy over synced wallet files (all files) onto sdcard in directory ZRM-Wallet (created first time App is started)
 - See the [FAQ](doc/FAQ.md)
 
 ### Disclaimer
